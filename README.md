@@ -36,8 +36,9 @@ It leverages GPT-based models for processing and classification tasks.
 Contains code for training and evaluating a RoBERTa model using the above datasets.
 Implements preprocessing, model fine-tuning, and evaluation metrics.
 
-Trained Models
+**Trained Models**
 The repository includes two folders that contain pre-trained BERT models:
+
 fake_news_model/
 liar_trained_model/
 
