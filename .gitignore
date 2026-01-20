@@ -5,6 +5,9 @@
 liar_trained_model/
 *.safetensors
 
+fake_news_model/
+*.safetensors
+
 # Python cache
 __pycache__/
 *.pyc
