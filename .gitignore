@@ -1,0 +1,10 @@
+# Mac system files
+.DS_Store
+
+# Trained models
+liar_trained_model/
+*.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
